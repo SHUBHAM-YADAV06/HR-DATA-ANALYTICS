@@ -27,15 +27,10 @@ This repository contains the Tableau workbook for analyzing HR data through an i
 - Filters allow users to segment data by department, age, gender, education level, etc.
 - The goal is to help HR and leadership teams make data-driven decisions regarding retention, satisfaction, and employee engagement.
 
-## Setup Instructions:
-1. Clone the repository or download the Tableau workbook file.
-2. Open the Tableau workbook (`HR_Attrition_Dashboard.twbx`).
-3. Ensure that the dataset is connected correctly (replace the data source path if needed).
-4. Explore the visualizations and filter them according to different employee metrics.
+#Dashboard
+Dashboard interaction: <a href="https://public.tableau.com/app/profile/shubham.yadav3281/viz/HRANALYTICSDASHBOARD_17403662945050/HRANALYTICSDASHBOARD">View Dashboard</a>
 
-## Prerequisites:
-- Tableau Desktop or Tableau Public installed on your system.
-- Access to HR data (CSV, Excel, or database connection).
 
-## Screenshots:
-- (Optional: Add screenshots or GIFs of your dashboard here to provide a visual preview).
+#Dashboard
+![HR ANALYTICS DASHBOARD (1)](https://github.com/user-attachments/assets/7d789bcb-9054-41df-a9ee-ed21f26006e3)
+

@@ -3,6 +3,8 @@ Developed a dynamic HR analytics dashboard in Tableau to analyze key HR metrics,
 # HR Data Analytics Dashboard in Tableau
 
 #Dataset used
+- <a href="https://github.com/SHUBHAM-YADAV06/HR-DATA-ANALYTICS/blob/main/HR%20Data%20(3)%20(1).xlsx">Dataset</a>
+
 
 
 
